@@ -4,3 +4,6 @@ type option
 vibrant
 dark mode
 video calls
+payment option
+send money
+recive money
